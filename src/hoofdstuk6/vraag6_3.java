@@ -11,9 +11,9 @@ public class vraag6_3 extends Applet {
 	int c;
 
     public void init() {
-    	a -=30;
+    	a =30;
     	b =20;
-    	c= a+b;
+    	c-= a+b;
     	
     }
 
